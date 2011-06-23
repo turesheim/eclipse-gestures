@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sigtec-graphix-1.0-20070807.162930-35.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-math-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaxen-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sigtec-jdom-1.0-20070807.162930-33.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jug-asl-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/igesture-framework-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sigtec-input-1.0-20070807.162930-26.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sigtec-util-1.0-20070807.162930-40.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sigtec-ink-1.0-20070807.162930-36.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="sandbox"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/igesture_1.1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

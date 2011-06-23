@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Gestures Support
+Bundle-SymbolicName: no.resheim.eclipse.gestures;singleton:=true
+Bundle-Version: 0.1.0.qualifier
+Bundle-Activator: no.resheim.eclipse.gestures.GesturePlugin
+Bundle-Vendor: Torkild Ulvøy Resheim
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .,
+ lib/sigtec-ink-1.0-20070807.162930-36.jar,
+ lib/sigtec-input-1.0-20070807.162930-26.jar,
+ lib/sigtec-util-1.0-20070807.162930-40.jar,
+ lib/igesture-framework-1.1.jar,
+ lib/jdom-1.0.jar,
+ lib/jug-asl-2.0.jar,
+ lib/sigtec-jdom-1.0-20070807.162930-33.jar,
+ lib/jaxen-1.1.jar,
+ lib/commons-math-1.0.jar,
+ lib/sigtec-graphix-1.0-20070807.162930-35.jar,
+ lib/commons-collections-3.1.jar
