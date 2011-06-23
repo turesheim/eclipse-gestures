@@ -1,0 +1,3 @@
+p. With the release of Eclipse 3.7 the SWT team added support for __touch__ events 
+and limited support for gestures. This is an attempt to extend this support using
+the iGesture framework.
